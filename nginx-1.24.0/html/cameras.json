@@ -1,0 +1,32 @@
+{
+    "camera1": {
+        "idCam": 1,
+        "location": "Mount Laurel",
+        "country": "United States",
+        "url": "http://96.91.239.26:1024/mjpg/video.mjpg",
+        "thumbnail": "/thumbnails/video1.png"
+    },
+    "camera2": {
+        "idCam": 2,
+        "location": "Bialystock",
+        "country": "Poland",
+        "url": "http://66.57.67.108:1024/mjpg/1/video.mjpg?timestamp=1703164659920",
+        "thumbnail": "/thumbnails/video2.png"
+    },   
+    "camera3": {
+        "idCam": 3,
+        "location": "Shelton",
+        "country": "United States",
+        "url": "http://107.0.231.40:8083/mjpg/video.mjpg",
+        "thumbnail": "/thumbnails/video3.png"
+    },
+    "camera4": {
+        "idCam": 4,
+        "location": "Juarez",
+        "country": "Mexico",
+        "url": "http://201.174.12.243:1024/mjpg/video.mjpg",
+        "thumbnail": "/thumbnails/video4.png"
+
+   
+    }    
+}

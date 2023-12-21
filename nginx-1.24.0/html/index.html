@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>KOPRSTREAM</title>
+  <link rel="stylesheet" href="stylesheet.css">
+  <link rel="icon" type="image/png" href="img/Nepojmenované.jpg"/>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <link href="https://vjs.zencdn.net/7.14.3/video-js.css" rel="stylesheet">
+      <!-- Bootstrap CSS -->
+       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+
+       <!-- Video.js CSS -->
+       <link href="https://vjs.zencdn.net/7.14.3/video-js.css" rel="stylesheet">
+       
+</head>
+<body>
+  <header>
+    <h1> SNEAK-A-PEAKER   </h1>
+    <main>
+      <table align="center" id="table"></table>
+    </main>
+  
+  </header>
+  <div class="content">
+    <div class="container mt-5">
+        <div class="row" id="videos">
+        </div>
+    </div>
+    </div>
+    <script src="script.js"></script>
+    <div id="cameraData"></div>
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+          fetchCameras();
+      });
+  </script>
+  <footer>
+    <p>&copy; 2023 Fanoušci Kopru</p>
+  </footer>
+  <script src="https://vjs.zencdn.net/7.14.3/video.js"></script>
+
+</body>
+</html>

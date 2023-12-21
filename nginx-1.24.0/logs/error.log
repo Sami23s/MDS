@@ -1,0 +1,20 @@
+2023/12/19 19:28:56 [error] 25620#10264: *1 CreateFile() "C:\nginx-1.24.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/12/20 15:53:41 [notice] 24068#9568: signal process started
+2023/12/20 15:53:50 [notice] 25784#25456: signal process started
+2023/12/20 15:53:50 [error] 25784#25456: CreateFile() "C:\nginx-1.24.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2023/12/20 15:57:06 [notice] 19264#24476: signal process started
+2023/12/20 15:57:24 [notice] 23184#2740: signal process started
+2023/12/20 15:57:24 [error] 23184#2740: CreateFile() "C:\nginx-1.24.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2023/12/20 21:38:55 [emerg] 14368#29172: unknown log format "main" in C:\Users\samos\Desktop\MDS_fork\nginx-1.24.0/conf/nginx.conf:42
+2023/12/20 21:40:30 [emerg] 25824#2184: unknown log format "main" in C:\Users\samos\Desktop\MDS_fork\nginx-1.24.0/conf/nginx.conf:42
+2023/12/20 21:40:54 [emerg] 28080#29316: unknown log format "main" in C:\Users\samos\Desktop\MDS_fork\nginx-1.24.0/conf/nginx.conf:42
+2023/12/21 12:45:39 [emerg] 21908#17488: unknown log format "main" in C:\Users\samos\Desktop\MDS_fork\nginx-1.24.0/conf/nginx.conf:42
+2023/12/21 12:47:39 [emerg] 12636#3780: unknown log format "main" in C:\Users\samos\Desktop\MDS_fork\nginx-1.24.0/conf/nginx.conf:42
+2023/12/21 12:48:33 [emerg] 18952#27568: unknown log format "main" in C:\Users\samos\Desktop\MDS_fork\nginx-1.24.0/conf/nginx.conf:42
+2023/12/21 12:48:46 [emerg] 24764#16636: unknown log format "main" in C:\Users\samos\Desktop\MDS_fork\nginx-1.24.0/conf/nginx.conf:42
+2023/12/21 12:49:14 [emerg] 26208#11248: unknown log format "main" in C:\Users\samos\Desktop\MDS_fork\nginx-1.24.0/conf/nginx.conf:42
+2023/12/21 12:49:22 [emerg] 17256#20600: unknown log format "main" in C:\Users\samos\Desktop\MDS_fork\nginx-1.24.0/conf/nginx.conf:42
+2023/12/21 12:49:25 [emerg] 5668#13256: unknown log format "main" in C:\Users\samos\Desktop\MDS_fork\nginx-1.24.0/conf/nginx.conf:42
+2023/12/21 12:51:18 [emerg] 17660#23504: unknown log format "main" in C:\Users\samos\Desktop\MDS_fork\nginx-1.24.0/conf/nginx.conf:42
+2023/12/21 12:56:24 [emerg] 19688#12312: no "ssl_certificate" is defined for the "listen ... ssl" directive in C:\Users\samos\Desktop\MDS_fork\nginx-1.24.0/conf/nginx.conf:35
+2023/12/21 12:57:27 [emerg] 3336#25184: unknown directive "rtmp" in C:\Users\samos\Desktop\MDS_fork\nginx-1.24.0/conf/nginx.conf:82
